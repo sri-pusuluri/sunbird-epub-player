@@ -4,14 +4,14 @@
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14",
-    "@project-sunbird/client-services": "^3.4.8",
+    "@project-sunbird/client-services": "^8.1.4",
     "@project-sunbird/sb-styles": "0.0.7"
   },
   "dependencies": {
     "@project-sunbird/sunbird-player-sdk-v8": "3.7.1"
   },
   "devDependencies": {
-    "@project-sunbird/client-services": "^3.4.8",
+    "@project-sunbird/client-services": "^8.1.4",
     "@project-sunbird/sb-styles": "0.0.7"
   }
 }
